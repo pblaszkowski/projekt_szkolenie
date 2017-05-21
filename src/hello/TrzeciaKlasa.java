@@ -1,9 +1,10 @@
 package hello;
 
-public class DrugaKlasa {
+public class TrzeciaKlasa {
 
 	public static void main(String[] args) {
-		System.out.println("Druga klasa!!!");
+		System.out.println("siema!!");
+
 	}
 
 }
