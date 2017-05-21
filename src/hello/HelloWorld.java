@@ -10,6 +10,8 @@ public class HelloWorld {
 
 		System.out.println("Bla bla bla");
 		System.out.println("Teraz dopiero dopisuję");
+		
+		System.out.println("Zmiana zrobiona już po mergu");
 
 
 	}
