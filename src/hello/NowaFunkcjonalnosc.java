@@ -9,6 +9,7 @@ public class NowaFunkcjonalnosc {
 		System.out.println("Ale wymaga dopracowania");
 		
 		System.out.println("coś tam dalej napisałem");
+		System.out.println("Wreszcie koniec");
 	}
 
 }
